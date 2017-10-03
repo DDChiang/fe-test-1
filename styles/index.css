@@ -1,0 +1,26 @@
+body {
+  padding: 2em;
+}
+
+.search-bar {
+  margin-bottom: 2em;
+}
+
+.table {
+  border: 1px solid black;
+}
+
+.field {
+  display: inline-block;
+  width: 33.33%;
+  height: 50px;
+  float: left;
+  background: lightgrey;
+  box-sizing: border-box;
+  padding: 6px;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+}
